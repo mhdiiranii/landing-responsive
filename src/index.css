@@ -1,0 +1,15 @@
+body {
+  background-color: #EDF4FC;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Character{
+  background-image: radial-gradient(rgba(102, 175, 165, 0.5) 25%,rgba(102, 175, 165, 0.3) 50% ,#EDF4FC 70%);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
